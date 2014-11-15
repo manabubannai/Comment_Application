@@ -28,7 +28,7 @@
 <div class="col-md-8 col-md-offset-2">
 
 	<div class="page-header">
-		<h2>Laravel と Angular の コメントシステム</h2>
+		<h2>Laravel と Angular の コメントシステム( ˘ω˘ )</h2>
 	</div>
 
 	<form ng-submit="submitComment()">
