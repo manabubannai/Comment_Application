@@ -24,11 +24,17 @@ $app = new Illuminate\Foundation\Application;
 |
 */
 
+// $env = $app->detectEnvironment(array(
+
+// 	'local' => array('homestead'),
+
+// ));
+
+// 以下はTwitterからの回答
 $env = $app->detectEnvironment(array(
-
-	'local' => array('homestead'),
-
+    'local' => array('ACA80423.ipt.aol.com'),
 ));
+
 
 /*
 |--------------------------------------------------------------------------
